@@ -2,6 +2,6 @@
 This project is for developing anipanggame
 
 # Member
-:sparkles: [yujin](https://www.notion.so/7d0636a4680049f5bb3c67e93de0c85f)
+:sparkles: [yujin](https://www.notion.so/9e598d14d48b4d70a4a04f6a8f36c848)
            [jaewom]()
 
